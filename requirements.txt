@@ -1,0 +1,14 @@
+Pillow>=12.1.0
+numpy>=2.4.2
+PyYAML>=6.0.3
+boto3
+pytest
+ruff
+ty
+pydantic
+requests
+httpx
+aiohttp
+tqdm
+python-dotenv
+rich
